@@ -11,7 +11,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/labibkamran",
   resume:
-    "https://drive.google.com/file/d/1ayU8rmi4-EZbRoVaiVEcsK-hBvO-VQ4s/view?usp=sharing",
+    "https://drive.google.com/file/d/1_9onv3DcgBeAMeNJhdlMPFvkbQPLyFCa/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/labibkamran/",
   insta: "https://www.instagram.com/labib_kamran/",
 };
@@ -306,7 +306,7 @@ export const experiences = [
     id: 1,
     img: "https://media.licdn.com/dms/image/v2/D4D0BAQF_yVxk-mpeZg/company-logo_200_200/company-logo_200_200/0/1694531627265/machvis_logo?e=1749686400&v=beta&t=KcJ160Xza-a2FwNiXc-All_InyEzp1RkQ7LTlLAn4fE",
     role: "AI, ML, Deep learning, Computer Vision Intern",
-    company: "Flipr Inovations Pvt. Ltd.",
+    company: "MachVis",
     date: "June 2024 - August 2024",
     desc: "Worked on AI, ML, and Computer Vision projects, designing and training deep learning models with Keras and PyTorch. Utilized OpenCV, Scikit-learn, and data processing libraries to optimize performance and extract insights from images and videos.",
     skills: [
